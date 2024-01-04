@@ -57,10 +57,9 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 ```bash
 # Clone este repositório
-git clone https://github.com/brunogoncalvesferreira/ignite-todolist.git
-
+git clone https://github.com/brunogoncalvesferreira/todolist.git
 # Acesse a pasta do projeto
-cd ignite-feed
+cd todolist
 
 # Instale as dependências
 pnpm install
@@ -85,4 +84,4 @@ pnpm run dev
 
 ## ✅ Licença
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://github.com/brunogoncalvesferreira/todolist?tab=MIT-1-ov-file#readme)
